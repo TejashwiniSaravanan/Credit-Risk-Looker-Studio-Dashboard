@@ -1,4 +1,4 @@
-# Credit Risk Analysis: Interactive Looker Studio Dashboard
+# Credit Risk Analysis: Interactive Looker Studio Dashboard 
 
 An interactive business intelligence dashboard built in Google Looker Studio to explore customer credit risk patterns across 425 records. Features seven chart types covering risk distribution, loan purpose analysis, demographic segmentation, and financial behavior visualization.
 
